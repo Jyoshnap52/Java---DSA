@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jyoshnap52/Java---DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/Jyoshnap52/Java---DSA/tree/master/0046-permutations) |
 ## String
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jyoshnap52/Java---DSA/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Jyoshnap52/Java---DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
