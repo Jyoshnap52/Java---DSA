@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Jyoshnap52/Java---DSA/tree/master/0047-permutations-ii) |
 | [0496-next-greater-element-i](https://github.com/Jyoshnap52/Java---DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Jyoshnap52/Java---DSA/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Jyoshnap52/Java---DSA/tree/master/0739-daily-temperatures) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Jyoshnap52/Java---DSA/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Jyoshnap52/Java---DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Jyoshnap52/Java---DSA/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Jyoshnap52/Java---DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Jyoshnap52/Java---DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jyoshnap52/Java---DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Backtracking
@@ -73,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Jyoshnap52/Java---DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Jyoshnap52/Java---DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
