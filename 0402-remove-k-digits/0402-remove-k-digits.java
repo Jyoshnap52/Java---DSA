@@ -31,7 +31,7 @@ class Solution {
         }
 
         result = result.substring(i);
-        if(result == ""){
+        if(result.isEmpty()){
             return "0";
         }
         return result;
