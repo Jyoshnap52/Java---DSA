@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Jyoshnap52/Java---DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Jyoshnap52/Java---DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jyoshnap52/Java---DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Jyoshnap52/Java---DSA/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/Jyoshnap52/Java---DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Jyoshnap52/Java---DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Jyoshnap52/Java---DSA/tree/master/0739-daily-temperatures) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Jyoshnap52/Java---DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jyoshnap52/Java---DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Jyoshnap52/Java---DSA/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/Jyoshnap52/Java---DSA/tree/master/0216-combination-sum-iii) |
 ## Sorting
 |  |
 | ------- |
