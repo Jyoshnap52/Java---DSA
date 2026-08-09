@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jyoshnap52/Java---DSA/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Jyoshnap52/Java---DSA/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/Jyoshnap52/Java---DSA/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/Jyoshnap52/Java---DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jyoshnap52/Java---DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Jyoshnap52/Java---DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Jyoshnap52/Java---DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jyoshnap52/Java---DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Jyoshnap52/Java---DSA/tree/master/0131-palindrome-partitioning) |
 ## Sorting
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Jyoshnap52/Java---DSA/tree/master/0402-remove-k-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Jyoshnap52/Java---DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
