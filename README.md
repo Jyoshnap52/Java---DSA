@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jyoshnap52/Java---DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0216-combination-sum-iii](https://github.com/Jyoshnap52/Java---DSA/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/Jyoshnap52/Java---DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Jyoshnap52/Java---DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Jyoshnap52/Java---DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Jyoshnap52/Java---DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Jyoshnap52/Java---DSA/tree/master/0739-daily-temperatures) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Jyoshnap52/Java---DSA/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Jyoshnap52/Java---DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Jyoshnap52/Java---DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Jyoshnap52/Java---DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Jyoshnap52/Java---DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Jyoshnap52/Java---DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Jyoshnap52/Java---DSA/tree/master/0739-daily-temperatures) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Jyoshnap52/Java---DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Jyoshnap52/Java---DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Jyoshnap52/Java---DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Jyoshnap52/Java---DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Jyoshnap52/Java---DSA/tree/master/0901-online-stock-span) |
 ## Bit Manipulation
