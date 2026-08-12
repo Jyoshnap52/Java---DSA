@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jyoshnap52/Java---DSA/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Jyoshnap52/Java---DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Jyoshnap52/Java---DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Jyoshnap52/Java---DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jyoshnap52/Java---DSA/tree/master/0090-subsets-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Jyoshnap52/Java---DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0216-combination-sum-iii](https://github.com/Jyoshnap52/Java---DSA/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/Jyoshnap52/Java---DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Jyoshnap52/Java---DSA/tree/master/0682-baseball-game) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jyoshnap52/Java---DSA/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Jyoshnap52/Java---DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Jyoshnap52/Java---DSA/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Jyoshnap52/Java---DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Jyoshnap52/Java---DSA/tree/master/0496-next-greater-element-i) |
