@@ -15,7 +15,7 @@ class Solution {
         if(!stack.isEmpty()){
             for(int i = 0; i < nums.length; i++){
                 cur = i;
-                while(nums[cur] > nums[stack.peek()]){
+                while(!stack.isEmpty() && nums[cur] > nums[stack.peek()]){
                     ans[stack.peek()] = nums[cur];
                     stack.pop();
                 }
