@@ -2,24 +2,27 @@ class Solution {
     public int[] nextGreaterElements(int[] nums) {
         Stack<Integer> stack = new Stack<>();
         int[] ans = new int[nums.length];
-
         Arrays.fill(ans, -1);
-
-        // We traverse twice because the array is circular
-        for (int i = 0; i < 2 * nums.length; i++) {
-
-            int cur = nums[i % nums.length];
-
-            while (!stack.isEmpty() && nums[stack.peek()] < cur) {
-                ans[stack.pop()] = cur;
+        int cur;
+        for(int i = 0; i < nums.length; i++){
+            cur = i;
+            while(!stack.isEmpty() && nums[cur] > nums[stack.peek()]){
+                ans[stack.peek()] = nums[cur];
+                stack.pop();   
             }
-
-            // Only push indexes during the first pass
-            if (i < nums.length) {
-                stack.push(i);
+            stack.push(cur);
+        }
+        if(!stack.isEmpty()){
+            for(int i = 0; i < nums.length; i++){
+                cur = i;
+                while(nums[cur] > nums[stack.peek()]){
+                    ans[stack.peek()] = nums[cur];
+                    stack.pop();
+                }
             }
         }
 
         return ans;
+        
     }
 }
