@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Jyoshnap52/Java---DSA/tree/master/0131-palindrome-partitioning) |
 | [0316-remove-duplicate-letters](https://github.com/Jyoshnap52/Java---DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Jyoshnap52/Java---DSA/tree/master/0402-remove-k-digits) |
+| [0771-jewels-and-stones](https://github.com/Jyoshnap52/Java---DSA/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Jyoshnap52/Java---DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jyoshnap52/Java---DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Jyoshnap52/Java---DSA/tree/master/1108-defanging-an-ip-address) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jyoshnap52/Java---DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jyoshnap52/Java---DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Jyoshnap52/Java---DSA/tree/master/0496-next-greater-element-i) |
+| [0771-jewels-and-stones](https://github.com/Jyoshnap52/Java---DSA/tree/master/0771-jewels-and-stones) |
 ## Monotonic Stack
 |  |
 | ------- |
