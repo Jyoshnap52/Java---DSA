@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Jyoshnap52/Java---DSA/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/Jyoshnap52/Java---DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jyoshnap52/Java---DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1108-defanging-an-ip-address](https://github.com/Jyoshnap52/Java---DSA/tree/master/1108-defanging-an-ip-address) |
 | [2390-removing-stars-from-a-string](https://github.com/Jyoshnap52/Java---DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
