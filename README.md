@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Jyoshnap52/Java---DSA/tree/master/0131-palindrome-partitioning) |
 | [0316-remove-duplicate-letters](https://github.com/Jyoshnap52/Java---DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Jyoshnap52/Java---DSA/tree/master/0402-remove-k-digits) |
+| [0709-to-lower-case](https://github.com/Jyoshnap52/Java---DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Jyoshnap52/Java---DSA/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Jyoshnap52/Java---DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jyoshnap52/Java---DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
