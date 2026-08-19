@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Jyoshnap52/Java---DSA/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/Jyoshnap52/Java---DSA/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/Jyoshnap52/Java---DSA/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Jyoshnap52/Java---DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2390-removing-stars-from-a-string](https://github.com/Jyoshnap52/Java---DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jyoshnap52/Java---DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Jyoshnap52/Java---DSA/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Jyoshnap52/Java---DSA/tree/master/0771-jewels-and-stones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Jyoshnap52/Java---DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Monotonic Stack
 |  |
 | ------- |
