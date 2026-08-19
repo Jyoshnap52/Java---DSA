@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Jyoshnap52/Java---DSA/tree/master/1108-defanging-an-ip-address) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Jyoshnap52/Java---DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1528-shuffle-string](https://github.com/Jyoshnap52/Java---DSA/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/Jyoshnap52/Java---DSA/tree/master/1678-goal-parser-interpretation) |
 | [2390-removing-stars-from-a-string](https://github.com/Jyoshnap52/Java---DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
