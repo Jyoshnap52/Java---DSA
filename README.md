@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Jyoshnap52/Java---DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Jyoshnap52/Java---DSA/tree/master/0739-daily-temperatures) |
 | [1528-shuffle-string](https://github.com/Jyoshnap52/Java---DSA/tree/master/1528-shuffle-string) |
+| [1816-truncate-sentence](https://github.com/Jyoshnap52/Java---DSA/tree/master/1816-truncate-sentence) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Jyoshnap52/Java---DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1528-shuffle-string](https://github.com/Jyoshnap52/Java---DSA/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/Jyoshnap52/Java---DSA/tree/master/1678-goal-parser-interpretation) |
+| [1816-truncate-sentence](https://github.com/Jyoshnap52/Java---DSA/tree/master/1816-truncate-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/Jyoshnap52/Java---DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
