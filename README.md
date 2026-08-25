@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Jyoshnap52/Java---DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Jyoshnap52/Java---DSA/tree/master/0739-daily-temperatures) |
 | [1528-shuffle-string](https://github.com/Jyoshnap52/Java---DSA/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jyoshnap52/Java---DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/Jyoshnap52/Java---DSA/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/Jyoshnap52/Java---DSA/tree/master/1929-concatenation-of-array) |
 ## String
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Jyoshnap52/Java---DSA/tree/master/1108-defanging-an-ip-address) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Jyoshnap52/Java---DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1528-shuffle-string](https://github.com/Jyoshnap52/Java---DSA/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jyoshnap52/Java---DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Jyoshnap52/Java---DSA/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/Jyoshnap52/Java---DSA/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jyoshnap52/Java---DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
