@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Jyoshnap52/Java---DSA/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/Jyoshnap52/Java---DSA/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Jyoshnap52/Java---DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Jyoshnap52/Java---DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Jyoshnap52/Java---DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Jyoshnap52/Java---DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Jyoshnap52/Java---DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Jyoshnap52/Java---DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Stack
 |  |
 | ------- |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jyoshnap52/Java---DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+## Counting
+|  |
+| ------- |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Jyoshnap52/Java---DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 <!---LeetCode Topics End-->
