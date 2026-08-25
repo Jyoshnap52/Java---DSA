@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Jyoshnap52/Java---DSA/tree/master/0061-rotate-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jyoshnap52/Java---DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0844-backspace-string-compare](https://github.com/Jyoshnap52/Java---DSA/tree/master/0844-backspace-string-compare) |
+| [1768-merge-strings-alternately](https://github.com/Jyoshnap52/Java---DSA/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Jyoshnap52/Java---DSA/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jyoshnap52/Java---DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Jyoshnap52/Java---DSA/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/Jyoshnap52/Java---DSA/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Jyoshnap52/Java---DSA/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jyoshnap52/Java---DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2390-removing-stars-from-a-string](https://github.com/Jyoshnap52/Java---DSA/tree/master/2390-removing-stars-from-a-string) |
