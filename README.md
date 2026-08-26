@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Jyoshnap52/Java---DSA/tree/master/0739-daily-temperatures) |
 | [1528-shuffle-string](https://github.com/Jyoshnap52/Java---DSA/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jyoshnap52/Java---DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/Jyoshnap52/Java---DSA/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/Jyoshnap52/Java---DSA/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/Jyoshnap52/Java---DSA/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Jyoshnap52/Java---DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Jyoshnap52/Java---DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Jyoshnap52/Java---DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
