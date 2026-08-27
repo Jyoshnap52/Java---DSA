@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Jyoshnap52/Java---DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Jyoshnap52/Java---DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Jyoshnap52/Java---DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0622-design-circular-queue](https://github.com/Jyoshnap52/Java---DSA/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jyoshnap52/Java---DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Jyoshnap52/Java---DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Jyoshnap52/Java---DSA/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/Jyoshnap52/Java---DSA/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/Jyoshnap52/Java---DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Jyoshnap52/Java---DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Jyoshnap52/Java---DSA/tree/master/0739-daily-temperatures) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Jyoshnap52/Java---DSA/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/Jyoshnap52/Java---DSA/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Jyoshnap52/Java---DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Jyoshnap52/Java---DSA/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/Jyoshnap52/Java---DSA/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Jyoshnap52/Java---DSA/tree/master/0933-number-of-recent-calls) |
 ## Number Theory
 |  |
