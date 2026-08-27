@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jyoshnap52/Java---DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Jyoshnap52/Java---DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Jyoshnap52/Java---DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Jyoshnap52/Java---DSA/tree/master/2169-count-operations-to-obtain-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Jyoshnap52/Java---DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Jyoshnap52/Java---DSA/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Jyoshnap52/Java---DSA/tree/master/1929-concatenation-of-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Jyoshnap52/Java---DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/Jyoshnap52/Java---DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
